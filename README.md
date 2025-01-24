@@ -6,7 +6,6 @@ I'm Elyn (She/Her), a developer, designer, and app user. Welcome to my profile p
 <div align="center">
   <span style="font-size: 18px; vertical-align: middle;">elyn.huang@uwaterloo.ca</span>
   <br>
-  <span style="font-size: 10px; vertical-align: middle;">Enjoy a more immersive visual experience in dark mode</span>
 </div>
 
 <!--

@@ -2,7 +2,11 @@
 
 I'm Elyn (She/Her), a developer, designer, and app user. Welcome to my profile page :) and feel free to explore my public repositories. One fun fact about me is that I love to sing Adele's songs for karaoke.
 
-![Slide1](https://github.com/user-attachments/assets/5aeeefb6-176a-41c2-922a-ae5db7ad620a)
+<picture>
+    <source srcset="[night.jpg](https://github.com/user-attachments/assets/5aeeefb6-176a-41c2-922a-ae5db7ad620a)" media="(prefers-color-scheme: dark)">
+    <img src="day.jpg">
+</picture>
+<!--![Slide1](https://github.com/user-attachments/assets/5aeeefb6-176a-41c2-922a-ae5db7ad620a)-->
 <div align="center">
   <span style="font-size: 18px; vertical-align: middle;">elyn.huang@uwaterloo.ca</span>
   <br>

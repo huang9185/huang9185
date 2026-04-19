@@ -1,6 +1,6 @@
 ## Nice to meet you!
 
-I'm Elyn (She/Her), a developer, designer, and app user. Welcome to my profile page :) and feel free to explore my public repositories. One fun fact about me is that I love to sing Adele's songs for karaoke.
+I'm Elyn (She/Her), a developer, designer, and app user. Welcome to my profile page and feel free to explore my public repositories:)
 
 <picture>
     <source srcset="dark.png" media="(prefers-color-scheme: dark)">
